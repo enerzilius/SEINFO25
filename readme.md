@@ -88,3 +88,9 @@
 ![alt text](images/modelo-execucao.png)
 
 ![alt text](images/fluxo-execucao.png)
+
+### Código
+![alt text](images/codigo1.png)
+![alt text](images/codigo2.png)
+![alt text](images/codigo3.png)
+![alt text](images/resultado-codigo.png)
